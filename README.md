@@ -31,7 +31,7 @@ App runs at `http://localhost:5173`
 - `GET https://api.tvmaze.com/search/shows?q=QUERY` — search shows by title
 
 ## Live Demo
-
+https://movie-explorer-delta-orcin.vercel.app
 
 ## Author
 Rony
