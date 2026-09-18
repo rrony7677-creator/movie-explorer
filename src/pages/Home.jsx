@@ -1,0 +1,15 @@
+import Navbar from "../components/Navbar";
+import HeroBanner from "../components/HeroBanner";
+import Footer from "../components/Footer";
+
+function Home() {
+  return (
+    <div className="min-h-screen flex flex-col bg-gray-950">
+      <Navbar />
+      <HeroBanner />
+      <Footer />
+    </div>
+  );
+}
+
+export default Home;
